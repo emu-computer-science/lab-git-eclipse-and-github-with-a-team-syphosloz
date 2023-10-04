@@ -6,5 +6,8 @@ public class Driver {
 	
 //	First class call
 	Random.print();
+//	second class call
+	sad.print();
 	}
+
 }
